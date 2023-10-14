@@ -2,7 +2,7 @@
 - 👀 I’m not sure what Im interested in
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
+- 📫 How to reach me vear1371@colorado.edu
 
 <!---
 chaitanyaarepalli47/chaitanyaarepalli47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
